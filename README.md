@@ -2,6 +2,6 @@
 Todo App REST API using Golang 
 
 \
-Framework: fiber
-ORM: gorm
+Framework: fiber\
+ORM: gorm\
 DB: mysql
